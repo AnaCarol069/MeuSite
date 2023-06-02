@@ -1,0 +1,29 @@
+body{
+    color: blueviolet;
+    background-color: #f1d792;
+    font-family: unset;
+}
+
+ul {
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    align-items: center;
+    padding: 16px;
+}
+
+a {
+    color: rgb(71, 126, 173);
+    text-decoration: none;
+}
+
+header img {
+    width: 300px;
+    height: 300px;
+    border-radius: 100%;
+    border: 50px #5a58ce;
+}
+
+.center {
+    text-align: center;
+}
